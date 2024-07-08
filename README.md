@@ -29,5 +29,6 @@ if not installed before, install tkinter:-
  ```bash
  pip3 install tk
  ```
+- yt demo for this is [here](https://www.youtube.com/watch?v=ttxKs_6_aq8&ab_channel=AvirupGhosh)
 - Now for the aruco_real create a video server using ip camera app in your phone and change the url = "path/of/your/video/stream" in the python file and run the script . You will be able to see the camera output along with aruco detection and pose estimation.
 - yt video for this is demo is [here](https://www.youtube.com/watch?v=dDknjrwP-lQ&ab_channel=AvirupGhosh)
